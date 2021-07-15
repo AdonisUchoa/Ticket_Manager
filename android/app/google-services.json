@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109884393302",
+    "project_id": "gerenciado-boleto",
+    "storage_bucket": "gerenciado-boleto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109884393302:android:68233bfa0f19b16bd378f7",
+        "android_client_info": {
+          "package_name": "com.example.payflowprevious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109884393302-fmrfth45jdgolnu1muejbr4o00956k7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflowprevious",
+            "certificate_hash": "7727d0fe52af9d8ee8f5a421fb25ebc6283a5129"
+          }
+        },
+        {
+          "client_id": "109884393302-dha869403f6vj6nl85lks52mpumrm7s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1C3KhbkKZtzwWa_CWwdbnjfbcijB1skY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109884393302-dha869403f6vj6nl85lks52mpumrm7s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
